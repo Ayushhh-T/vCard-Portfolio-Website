@@ -2,12 +2,14 @@
 A personal vCard portfolio website to showcase your skills, projects, experience and many more.
 
 **IMPORTANT**
+
 Before deploying or publishing this website make sure to do necessary changes in the submit-form.php also.
 I have provided some basic images in the assest folder.
 
 Run the index.html on local host using live server (VS CODE*).
 
 **INSTALLATION** 
+
 Directly donwload the zip folder.
 
 USING GIT:
