@@ -13,9 +13,11 @@ Directly donwload the zip folder.
 USING GIT:
 
 Fow windows: Open powershell and run the following command. Make sure that git is installed in your system.
+
 $ git clone https://github.com/Ayushhh-T/vCard-Portfolio-Website.git
 
 For Linux/Ubuntu: Paste the following command in terminal.
+
 $ git clone https://github.com/Ayushhh-T/vCard-Portfolio-Website.git
 
 👍👍
